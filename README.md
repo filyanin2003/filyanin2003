@@ -6,7 +6,7 @@
 [Link to my CV](https://drive.google.com/file/d/1deykHzqGwHvr3J7uxlwcaig3IYJCSyOn/view?usp=share_link)
 
 ## My Сertifiсates
-[![Link to my certificates](https://drive.google.com/drive/folders/1zo7o39iulx5kW2ZodtAZxmoQVOya5Mti)]
+[Link to my certificates](https://drive.google.com/drive/folders/1zo7o39iulx5kW2ZodtAZxmoQVOya5Mti)
 
 ### Languages and Tools
 ![Github](https://img.shields.io/badge/-Github-24292F?style=for-the-badge&logo=GITHUB)
