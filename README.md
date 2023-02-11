@@ -1,11 +1,11 @@
 ![Header](https://github.com/filyanin2003/filyanin2003/blob/main/assets/img.header1.png)
 
-## I'm a beginner QA-engineer
+### I'm a beginner QA-engineer
 
-## My CV
+### My CV
 [Link to my CV](https://drive.google.com/file/d/1deykHzqGwHvr3J7uxlwcaig3IYJCSyOn/view?usp=share_link)
 
-## My Сertifiсates
+### My Сertifiсates
 [Link to my certificates](https://drive.google.com/drive/folders/1zo7o39iulx5kW2ZodtAZxmoQVOya5Mti)
 
 ### Languages and Tools
