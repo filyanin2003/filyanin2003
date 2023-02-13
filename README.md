@@ -8,6 +8,14 @@
 ### My Сertifiсates
 [Link to my certificates](https://drive.google.com/drive/folders/1zo7o39iulx5kW2ZodtAZxmoQVOya5Mti)
 
+### Testing Documentation
+[Link to checklists](https://drive.google.com/drive/folders/180hsbhSv9pcNQltAI3xhlRFC9vCAVZ0X)
+
+### My projects on Jira
+[Link to my projects](https://anton2003.atlassian.net/jira/projects)
+
+### My projects on YouTrack
+[Link to my YT projects](https://anton-filyanin.youtrack.cloud/issues?q=project:%20PHPTravels,%20HiTechPlace,%20ListBoxer)
 ### Languages and Tools
 ![Github](https://img.shields.io/badge/-Github-24292F?style=for-the-badge&logo=GITHUB)
 ![Sql](https://img.shields.io/badge/-Sql-24292F?style=for-the-badge&logo=mysql)
