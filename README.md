@@ -11,6 +11,8 @@
 ### Testing Documentation
 [Link to checklists](https://drive.google.com/drive/folders/180hsbhSv9pcNQltAI3xhlRFC9vCAVZ0X)
 
+[Link to test cases](https://drive.google.com/drive/folders/1yOiU-YeilN-NUmIW0fhI5mtJ8ZyZHXH1)
+
 ### My projects on Jira
 [Link to my projects](https://anton2003.atlassian.net/jira/projects)
 
